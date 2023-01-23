@@ -1,1 +1,1 @@
-# ELEC490-Gesture_Recognition
+# ELEC490_Gesture_Recognition
