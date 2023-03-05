@@ -1,2 +1,2 @@
-model_checkpoint_path: "Pointnet_one_tnet"
-all_model_checkpoint_paths: "Pointnet_one_tnet"
+model_checkpoint_path: "Pointnet_expanded_our1"
+all_model_checkpoint_paths: "Pointnet_expanded_our1"
