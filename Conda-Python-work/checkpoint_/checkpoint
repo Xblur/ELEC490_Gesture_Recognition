@@ -1,2 +1,2 @@
-model_checkpoint_path: "Pointnet"
-all_model_checkpoint_paths: "Pointnet"
+model_checkpoint_path: "RESNET50V2_open_close_mouth"
+all_model_checkpoint_paths: "RESNET50V2_open_close_mouth"
