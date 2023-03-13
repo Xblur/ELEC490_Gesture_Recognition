@@ -1,2 +1,2 @@
-model_checkpoint_path: "Pointnet_expanded_our1"
-all_model_checkpoint_paths: "Pointnet_expanded_our1"
+model_checkpoint_path: "Saved_resnet_weights"
+all_model_checkpoint_paths: "Saved_resnet_weights"
